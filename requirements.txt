@@ -1,1 +1,4 @@
-sdads
+numpy
+matplotlib
+scikit-learn
+tensorflow
